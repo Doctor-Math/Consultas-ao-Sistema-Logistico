@@ -1,4 +1,7 @@
 # TP3 - Consultas ao Sistema Logístico dos Armazéns Hanói
+![Feito em C++](https://img.shields.io/badge/C%2B%2B-Feito%20em-blue)
+
+![Badge Concluído](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 **Disciplina**: Estruturas de Dados (DCC205/DCC221) — UFMG  
 **Autor**: Matheus Soares dos Santos de Freitas  
